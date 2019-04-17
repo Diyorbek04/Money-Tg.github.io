@@ -1,0 +1,27 @@
+nav{
+	margin:0;
+	padding:  0;
+	height: 100vh;
+	display: flex;
+
+}
+.in{
+text-align: center;
+background-color: #3B3B3B ;
+color: #4E5F00 ;
+font-size: 50px;
+}
+.lop{
+	background-color: #3B3B3B;
+	font-size: 50px;
+	text-align:center;
+
+}
+.lop a{
+	text-decoration: none;	
+	padding: 100px;
+}
+
+.jop:hover {
+border:black solid ;
+}
